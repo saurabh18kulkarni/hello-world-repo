@@ -4,5 +4,5 @@ jobs:
   hello-job:
     runs-on: ubuntu-latest
     steps:
-      - name: Echo text tests
+      - name: Echo text tests text 
         run: 'echo "Hello, world!"'
